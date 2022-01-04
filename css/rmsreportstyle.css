@@ -1,0 +1,87 @@
+﻿body
+{
+    position: relative;
+    background-color: #87cefa;
+}
+
+
+
+
+.generatebutton
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.generatebuttoncss
+{
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+.generatebuttoncss:hover
+{
+    background-color: #555555;
+    color: white;
+}
+.excelbutton
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.excelbuttoncss
+{
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+.excelbuttoncss:hover
+{
+    background-color: #4CAF50;
+    color: white;
+}
+.pdfbutton
+{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.pdfbuttoncss
+{
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+
+.pdfbuttoncss:hover
+{
+    background-color: #008CBA;
+    color: white;
+}

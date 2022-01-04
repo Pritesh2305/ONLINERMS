@@ -1,0 +1,100 @@
+﻿body {
+    position: relative;
+    background-color: #87cefa;
+}
+
+#rptbillmod {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
+
+#divbillmod {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#rptkotmod {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
+
+#divkotmod {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#divbillregister {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#rptbillregister {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
+
+#divbilldtl {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#rptbilldetail {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
+
+#divitemsalereg {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#rptitemsale {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
+
+#divbusinesssummary {
+    height: 400px;
+    padding: 10px;
+    margin: auto;
+    border: 0.062em solid #999;
+    background-color: #fff;
+    overflow: auto;
+}
+
+#rptbusinesssummary {
+    padding-top: 50px;
+    height: 700px;
+    color: Black;
+    background-color: #87cefa;
+}
